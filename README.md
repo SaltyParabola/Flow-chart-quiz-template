@@ -6,6 +6,6 @@ The function to run the quiz is very minimal, and as a last step it asks if you 
 
 # How to use
 
-Download both files and put them in a folder together. Add your info to the template for each step. From the terminal, run main.py. That's it! no dependencies, infinitely customizeable, runs on anything that runs python.
+Download both files and put them in a folder together. Add your info to the flow_chart.py template for each step. From the terminal, run main.py. That's it! no dependencies, infinitely customizeable, runs on anything that runs python.
 
 Feel free to use and customize this however you like.
